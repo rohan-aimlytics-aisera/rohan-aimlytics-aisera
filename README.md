@@ -37,11 +37,11 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buy me a coffe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/buy me a coffe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-aisera&show_icons=true&locale=en" alt="𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-aisera&show_icons=true&locale=en&layout=compact" alt="𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-aisera&show_icons=true&locale=en" alt="𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿" /></p>>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-aisera&show_icons=true&locale=en&layout=compact" alt="𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿" /></p>>
 
 <!---
 rohan-aisera/rohan-aisera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
